@@ -71,7 +71,7 @@ form{
     width:275px;
     height:200px;
     border-radius:5px;
-    background:rgba(95, 11, 91, 0.986);
+    background:rgb(95, 11, 91, 0.986);
     position:absolute ;
     bottom:200px;
     left:150px;
@@ -88,7 +88,7 @@ form1{
     width:275px;
     height:200px;
     border-radius:5px;
-    background:rgba(95, 11, 91, 0.986);
+    background:rgb(95, 11, 91, 0.986);
     position:absolute ;
     bottom:180px;
     left:450px;
@@ -100,7 +100,7 @@ form2{
    width:275px;
    height:200px;
    border-radius:5px;
-   background:rgba(95, 11, 91, 0.986);
+   background:rgb(95, 11, 91, 0.986);
    position:absolute ;
    bottom:160px;
    left:750px;
