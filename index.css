@@ -1,3 +1,5 @@
+
+@media (min-width: 1025px) and (max-width: 1280px) {
 body{
 
 
@@ -104,4 +106,222 @@ form2{
    position:absolute ;
    bottom:160px;
    left:750px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    body{
+
+
+
+        margin:100px 100px 100px 100px;
+    }
+    
+    
+    
+    p1 {
+        width: 250px;
+        height: 40px;
+       border-radius:3px;
+        background:rgb(232, 223, 235);
+        font-size:100%; 
+        color:goldenrod;
+        position:absolute;
+        top:110px;
+       right: 300px; 
+    }
+      
+      p2 {
+        width: 250px;
+        height: 40px;
+       border-radius:3px;
+        background:rgb(232, 223, 235);
+        font-size:100%; 
+        color:goldenrod;
+        position:absolute;
+        top:180px;
+       right: 260px; 
+      }
+    
+    
+      p3 {
+        width: 250px;
+        height: 40px;
+       border-radius:3px;
+        background:rgb(232, 223, 235);
+        font-size:100%; 
+        color:goldenrod;
+        position:absolute;
+        top:250px;
+       right: 220px; 
+      }
+    
+      h1{
+        width: 250px;
+        height: 30px;
+          color:#87058b;
+          font-size:40px;
+      }
+    
+    h6{
+        width: 250px;
+        height: 30px;
+        color:rgb(151, 138, 151);  
+        position:relative;
+        top:100px;
+        font-size: small;
+    }
+    
+    img{
+        width: 25px;
+        height:auto;
+        border-radius: 50%;
+        padding: 10px 10px 10px 10px;
+    }
+    
+    form{
+        width:225px;
+        height:150px;
+        border-radius:5px;
+        background:rgb(95, 11, 91, 0.986);
+        position:absolute ;
+        bottom:150px;
+        left:100px;
+    }
+    
+    div{
+        color:rgb(232, 223, 235);
+        padding:15px 20px 5px 20px;
+    }
+    
+    form1{
+        
+        
+        width:225px;
+        height:150px;
+        border-radius:5px;
+        background:rgb(95, 11, 91, 0.986);
+        position:absolute ;
+        bottom:140px;
+        left:400px;
+    }
+    
+    form2{
+       
+       right: 350x; 
+       width:225px;
+       height:150px;
+       border-radius:5px;
+       background:rgb(95, 11, 91, 0.986);
+       position:absolute ;
+       bottom:120px;
+       left:700px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    body{
+
+
+
+        margin:10px 10px 10px 10px;
+    }
+    
+    
+    
+    p1 {
+        width: 300px;
+        height: 50px;
+       border-radius:5px;
+        background:rgb(232, 223, 235);
+        font-size:100%; 
+        color:goldenrod;
+        position:absolute;
+        top:160px;
+        
+    }
+      
+      p2 {
+        width: 300px;
+        height: 50px;
+       border-radius:5px;
+        background:rgb(232, 223, 235);
+        font-size:100%; 
+        color:goldenrod;
+        position:absolute;
+        top:230px;
+      
+      }
+    
+    
+      p3 {
+        width: 300px;
+        height: 50px;
+       border-radius:5px;
+        background:rgb(232, 223, 235);
+        font-size:100%; 
+        color:goldenrod;
+        position:absolute;
+        top:300px;
+       
+      }
+    
+      h1{
+        width: 300px;
+        height: 40px;
+          color:#87058b;
+          font-size:50px;
+      }
+    
+    h6{
+        width: 300px;
+        height: 40px;
+        color:rgb(151, 138, 151);  
+        position:relative;
+        top:120px;
+        font-size: small;
+    }
+    
+    img{
+        width: 25px;
+        height:auto;
+        border-radius: 50%;
+        padding: 10px 10px 10px 10px;
+    }
+    
+    form{
+        width:300px;
+        height:200px;
+        border-radius:5px;
+        background:rgb(95, 11, 91, 0.986);
+        position:absolute ;
+    }
+    
+    div{
+        color:rgb(232, 223, 235);
+        padding:5px 10px 5px 10px;
+    }
+    
+    form1{
+        
+        
+        width:300px;
+        height:200px;
+        border-radius:5px;
+        background:rgb(95, 11, 91, 0.986);
+        position:absolute ;
+    }
+    
+    form2{
+       
+       
+       width:300px;
+       height:200px;
+       border-radius:5px;
+       background:rgb(95, 11, 91, 0.986);
+       position:absolute ;
+    }
+
 }
