@@ -58,7 +58,7 @@ h6{
     height: 40px;
     color:rgb(151, 138, 151);  
     position:relative;
-    top:120px;
+    top:60px;
     font-size: small;
 }
 
@@ -220,106 +220,75 @@ form2{
     }
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
 
-    h1{
-      width: 200px;
-      height: 20px;
-        color:#87058b;
-        font-size:25px;
-       text-align: center;
-       
+@media  (max-width: 480px) {
+    .grid div:nth-child{background:white;
     }
-  
-   h6{
-      width: 300px;
-      height: 40px;
-      color:rgb(151, 138, 151);  
-      position:relative;
-      top:15px;
-      font-size: small;
-      text-align: center;
-  }
-  
-  p1 {
-      width: 150px;
-      height: 40px;
-     border-radius:5px;
-      background:rgb(232, 223, 235);
-      font-size:12px; 
-      color:goldenrod;
+        h1{
+          width: 200px;
+          height: 20px;
+            color:#87058b;
+            font-size:25px;
+           text-align: center;   
+        }
       
-  }
-    
-    p2 {
-      width: 150px;
-      height: 40px;
-     border-radius:5px;
-      background:rgb(232, 223, 235);
-      font-size:12px; 
-      color:goldenrod;
+       h6{
+          width: 300px;
+          height: 20px;
+          color:rgb(151, 138, 151);  
+          font-size: small;
+          text-align: center;
+      }
       
-    
+      p1 {
+          width: 150px;
+          height: 45px;
+         border-radius:5px;
+          background:rgb(232, 223, 235);
+          font-size:12px; 
+          color:goldenrod;  
+      }
+        
+        p2 {
+          width: 150px;
+          height: 75px;
+         border-radius:5px;
+          background:rgb(232, 223, 235);
+          font-size:12px; 
+          color:goldenrod;
+        }
+      
+      
+        p3 {
+           width: 150px;
+          height: px;
+         border-radius:5px;
+          background:rgb(232, 223, 235);
+          font-size:12px; 
+          color:goldenrod;
+        }
+      
+      
+      
+      
+      div1,div2,div3{
+          color:rgb(232, 223, 235);
+          padding:5px 10px 5px 10px;
+          font-size:12px;
+      }
+      
+      img{
+          width: 25px;
+          height:auto;
+          border-radius: 50%;
+          padding: 4px 2px 4px 2px;  
+      }
+      
+      #cot{
+            width:250px;
+          height:125px;
+          border-radius:5px;
+          background:rgb(95, 11, 91, 0.986); 
+      }
+      
     }
-  
-  
-    p3 {
-       width: 150px;
-      height: 30px;
-     border-radius:5px;
-      background:rgb(232, 223, 235);
-      font-size:12px; 
-      color:goldenrod;
-     ;
-     
-    }
-  
-  
- 
-  
-  img{
-      width: 25px;
-      height:auto;
-      border-radius: 50%;
-      padding: 4px 2px 4px 2px;
-  }
-  
-  form{
-        width:230px;
-      height:115px;
-      border-radius:5px;
-      background:rgb(95, 11, 91, 0.986);
-    
-     
-  }
-  
-  div{
-      color:rgb(232, 223, 235);
-      padding:5px 10px 5px 10px;
-      font-size:12px;
-  }
-  
-  form1{
-      
-      
-      width:230px;
-      height:115px;
-      border-radius:5px;
-      background:rgb(95, 11, 91, 0.986);
-      position:absolute ;
-     
-  }
-  
-  form2{
-     
-     
-      width:230px;
-      height:115px;
-      border-radius:5px;
-      background:rgb(95, 11, 91, 0.986);
-      position:absolute ;
-     
-     bottom:0px;
-  }
-
-}
