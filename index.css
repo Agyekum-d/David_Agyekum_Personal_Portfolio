@@ -46,11 +46,12 @@ p1 {
    right: 270px; 
   }
 
-  h1{
+  h1:hover{
     width: 300px;
     height: 40px;
       color:#87058b;
       font-size:50px;
+      background: red;
   }
 
 h6{
