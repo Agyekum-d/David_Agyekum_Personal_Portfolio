@@ -111,11 +111,12 @@ margin: 0vw  1vw 0vw 0vw;
     display: grid;
     text-align: center;
     margin: -3px 0px 2px 0px;
+    padding-bottom: 1.5vw;
     
 }
 #grid1,#grid0{
   display: grid;
-  gap: 1px;
+  
   margin: 0% 10% 0% 15%;
 }
 p1 {
