@@ -43,12 +43,12 @@ p1 {
   }
   h1{
     width: 35vw;
-      color:#87058b;
+      color:rgba(81, 32, 81, 1);
       font-size:5vw; 
   }
 h6{
     width: 35vw;
-    color:rgb(151, 138, 151);  
+    color:rgba(146, 123, 145, 1);  
     font-size: 2VW;
     
 }
@@ -63,7 +63,7 @@ img{
     width:22vw;
     height:15vw;
     border-radius:1vw;
-    background:rgb(95, 11, 91, 0.986);
+    background:#512051;
     padding: 2vw 2vw 2vw 2vw;
 }
 #word{
@@ -129,13 +129,13 @@ p2 {
 }
 h1{
   width:208.5px;
-    color:#87058b;
+    color:rgba(81, 32, 81, 1);
     font-size:10vw; 
     text-align: center;
 }
 h6{
   width:208.5px;
-  color:rgb(151, 138, 151);  
+  color:rgba(146, 123, 145, 1);  
   font-size: 10.5px;
   text-align: center;
 }
